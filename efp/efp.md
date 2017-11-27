@@ -37,7 +37,7 @@ Before Mr. Auld’s death, Ken Brett worked in the office of the Essex Canning a
 
 When R.R. Brett passed away on October 5, 1937, he left the entire business to his son Ken. In a letter Ken wrote to his brother Marwood a week after their father’s death, he reproduced some of the will:
 
->I give, devise and bequeath unto my son, Kenneth Elliott Brett, my business >known as the Essex Free Press, together with the lands and premises occupied >by the said business and all machinery, type and equipment of the said >business, including all stock of paper and other chattels, together with all >accounts and notes receivable and all monies and bank accounts belonging to >the said business, for his own use absolutely forever; subject to the payment >by the said Kenneth Elliott Brett of all the debts of the said business.
+>I give, devise and bequeath unto my son, Kenneth Elliott Brett, my business known as the Essex Free Press, together with the lands and premises occupied by the said business and all machinery, type and equipment of the said business, including all stock of paper and other chattels, together with all accounts and notes receivable and all monies and bank accounts belonging to the said business, for his own use absolutely forever; subject to the payment by the said Kenneth Elliott Brett of all the debts of the said business.
 
 The will gave the residue of R.R. Brett’s estate to his wife, Frances Lillian Brett, and appointed his wife and son Ken as the executors.
 
@@ -50,7 +50,7 @@ _Caption_: A fire consumed the original Free Press building on Talbot Street on 
 
 According to a report that appeared in the _Free Press_ on Friday, January 22, 1943, the fire started at 2:45 p.m. on Tuesday, January 19.
 
->Mr. Hunter had been in the back room about five minutes earlier and had >lighted a gas fire under the metal pot in order to cast some cuts for this >week’s issue when on going back to see if the metal was hot enough to pour, >he was met with a burst of flame as he opened the door, however, in the >meantime Bruce Beam and John Dodson, of Hicks Furniture, next door, had >noticed the fire and turned in the fire alarm. We doubt if there was ever a >fire fought in town under worse atmospheric conditions the day being >extremely cold.
+>Mr. Hunter had been in the back room about five minutes earlier and had lighted a gas fire under the metal pot in order to cast some cuts for this week’s issue when on going back to see if the metal was hot enough to pour, he was met with a burst of flame as he opened the door, however, in the meantime Bruce Beam and John Dodson, of Hicks Furniture, next door, had noticed the fire and turned in the fire alarm. We doubt if there was ever a fire fought in town under worse atmospheric conditions the day being extremely cold.
 
 The letterpress survived the blaze and was moved to the backroom of the town’s bowling alley where the paper was published until construction of the current office on Centre Street was completed in the mid 1940s.
 
