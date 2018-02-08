@@ -25,3 +25,11 @@ Henry collaborated on _Acton's Early Years_, a book recounting the town's histor
 Sons David and Jim Dills continued the Dills newspapers, David leaving the navy and Jim finishing a Journalism degree at Ryerson. The _Georgetown Independent_ was established by them in 1973, and in 1978 decided to sell off the papers to Inland Publishing. Into the 1980s the paper was published by Don McDonald, with Gord Murray was editor, who replaced Hartley Coats, Coats then editing full-time for the _Independent_ after taking over for Mary Dills when she retired in 1978. Hartley had been apprenticed as a printer's devil to the G. A. Dills in 1944.
 
 The paper historically served the communities of Eden Mills, Rockwood, Nassagaweya, Acton, Georgetown, Milton, Everton, Ospringe, Campbellville, Limehouse, Ballinafad, Silvercreek, Erin Village, Glen Williams, Moffat, Churchill, Ebenezer and Silverwood. The _Free Press_ ran until eventually merging with the _Independent_, now publishing as the _Independent & Free Press_.
+
+__Publication Dates__
+
+1875: July 2nd - 1984: December 26th
+
+__Frequency__
+
+Weekly/Regular; 1875: Thursdays, 1967: Wednesdays
