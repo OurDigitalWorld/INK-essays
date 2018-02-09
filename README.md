@@ -1,10 +1,10 @@
 # INK-essays
-Collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.info). All 108 (see below) essays will be managed here as part of Ink revamp.
+This is a growing collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.info). Essays for all 108 titles (so far - see below) will be managed here as part of the Ink revamp.
 
-* _The Acton Free Press_ (1875-1984)
-* _The Acton Tanner_ (1992-2001)
+* [_The Acton Free Press_](/acton/acton.md) (1875-1984)
+* [_The Acton Tanner_](/tanner/tanner.md) (1992-2001)
 * _The Advocate (Woodville)_ (1879-1888)
-* _The Amherstburg Courier_ (1849-1850)
+* [_The Amherstburg Courier_](/ac/ac.md) (1849-1850)
 * _The Amherstburg Echo_ (1874-1982)
 * _Aurora Banner_ (1873-1967)
 * _The Barrie Examiner_ (1864-1979)
@@ -38,7 +38,7 @@ Collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.i
 * _The Enterprise Of East Northumberland_ (1902-1958)
 * _The Era (Newmarket)_ (1965-2010)
 * _The Express-Herald (York)_ (1940)
-* _The Essex Free Press_ (1895-2011)
+* [_The Essex Free Press_](/efp/efp.md) (1895-2011)
 * _The Essex Record_ (1871-1882)
 * _Farmers Sun (London)_ (1836-1929)
 * _Fenelon Falls Gazette_ (1881-1914)
@@ -85,7 +85,7 @@ Collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.i
 * _St. Joseph Traveller (MIchigan)_ (1859-1866)
 * _Stouffville Pilot_ (1903-1904)
 * _The Stouffville Sun-Tribune_ (1888 - 2007)
-* _The Tecumseh Maple Leaf_ (1931-1958)
+* [_The Tecumseh Maple Leaf_](/mleaf/mleaf.md) (1931-1958)
 * _The Tecumseh Tribune_ (1959-2010)
 * _True Royalist (Windsor)_ (1860 - 1861)
 * _Upper Canada Gazette_ (1793-1848)
