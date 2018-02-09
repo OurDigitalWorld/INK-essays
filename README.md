@@ -1,8 +1,8 @@
 # INK-essays
-Collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.info). All 108 (see below) essays will be managed here as part of Ink revamp.
+This is a growing collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.info). All 108 (so far - see below) essays will be managed here as part of the Ink revamp.
 
-* _The Acton Free Press_ (1875-1984)
-* _The Acton Tanner_ (1992-2001)
+* [_The Acton Free Press_](/acton/acton.md) (1875-1984)
+* [_The Acton Tanner_](/tanner/tanner.md) (1992-2001)
 * _The Advocate (Woodville)_ (1879-1888)
 * _The Amherstburg Courier_ (1849-1850)
 * _The Amherstburg Echo_ (1874-1982)
