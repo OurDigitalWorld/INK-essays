@@ -85,7 +85,7 @@ This is a growing collection of newspaper essays for [ODW Ink project](http://in
 * _St. Joseph Traveller (MIchigan)_ (1859-1866)
 * _Stouffville Pilot_ (1903-1904)
 * _The Stouffville Sun-Tribune_ (1888 - 2007)
-* _The Tecumseh Maple Leaf_ (1931-1958)
+* [_The Tecumseh Maple Leaf_](/mleaf/mleaf.md) (1931-1958)
 * _The Tecumseh Tribune_ (1959-2010)
 * _True Royalist (Windsor)_ (1860 - 1861)
 * _Upper Canada Gazette_ (1793-1848)
