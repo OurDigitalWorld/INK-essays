@@ -32,7 +32,7 @@ No published issues between May 1997 and January 1998
 
 __Title Variations__
 
-The Acton Tanner: 1992: May 26th - 1997: May
+_The Acton Tanner_: 1992: May 26th - 1997: May
 
 _The New Tanner_: 1998: January 29th - ongoing
 
