@@ -38,7 +38,7 @@ Collection of newspaper essays for [ODW Ink project](http://ink.scholarsportal.i
 * _The Enterprise Of East Northumberland_ (1902-1958)
 * _The Era (Newmarket)_ (1965-2010)
 * _The Express-Herald (York)_ (1940)
-* [_The Essex Free Press_](/lauriebrett/INK-essays/blob/master/efp/efp.md) (1895-2011)
+* [_The Essex Free Press_](/blob/master/efp/efp.md) (1895-2011)
 * _The Essex Record_ (1871-1882)
 * _Farmers Sun (London)_ (1836-1929)
 * _Fenelon Falls Gazette_ (1881-1914)
