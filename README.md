@@ -5,7 +5,7 @@ This is a growing collection of newspaper essays for [ODW Ink project](http://in
 * [_The Acton Tanner_](/tanner/tanner.md) (1992-2001)
 * _The Advocate (Woodville)_ (1879-1888)
 * [_The Amherstburg Courier_](/ac/ac.md) (1849-1850)
-* _The Amherstburg Echo_ (1874-1982)
+* [_The Amherstburg Echo_](/echo/echo.md) (1874-1982)
 * _Aurora Banner_ (1873-1967)
 * _The Barrie Examiner_ (1864-1979)
 * _Bobcaygeon Independent_ (1872-1937)
